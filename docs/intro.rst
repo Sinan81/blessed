@@ -39,7 +39,7 @@ Coding with *Blessed* looks like this...
 
     with t.cbreak():
         inp = t.inkey()
-    print('You pressed ' + repr(inp))
+        print('You pressed ' + repr(inp))
 
 
 Brief Overview
